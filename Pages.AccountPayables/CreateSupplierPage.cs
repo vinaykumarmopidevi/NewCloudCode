@@ -101,7 +101,7 @@ namespace Pages.AccountPayables
 
         public void TaxCountry()
         {
-            System.Threading.Thread.Sleep(1000);
+            System.Threading.Thread.Sleep(8000);
             taxCountry.SendKeys("United States Minor Outlying Islands");//United States
             taxCountry.SendKeys(Keys.Tab);
             System.Threading.Thread.Sleep(1000);
@@ -165,7 +165,7 @@ namespace Pages.AccountPayables
         {
             System.Threading.Thread.Sleep(1000);
             createButtonClick.Click();
-            System.Threading.Thread.Sleep(8000);
+            System.Threading.Thread.Sleep(60000);
             if (ignoreMatchResultandCreateSupplier.Displayed)
             {
                 IgnoreMatchResultandCreateSupplier();

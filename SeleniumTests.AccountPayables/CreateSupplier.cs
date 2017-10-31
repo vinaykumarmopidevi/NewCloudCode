@@ -38,7 +38,7 @@ namespace SeleniumTests.AccountPayables
             supplierCreation.loginToApplication();
             supplierCreation.Navigation_Details();
             supplierCreation.CreateSupplier("Supplier" + GetRandomNumber(), data["BusinessRelationship"], data["TaxOrganizationType"], data["SupplierType"]);
-            
+            supplierCreation.TransactionTax();
             supplierCreation.AddressCreation(data["Address"], data["CountryName"], data["AddressLine1"], data["Pincode"]);
             supplierCreation.SiteCreation(data["Procurement"]);
             //supplierCreation.TransactionTax();

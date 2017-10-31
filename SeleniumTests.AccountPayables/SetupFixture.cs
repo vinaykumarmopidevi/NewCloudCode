@@ -23,15 +23,15 @@ namespace SeleniumTests.AccountPayables
             }
         }
 
-        [OneTimeTearDown]
-        public void OneTimeTearDown()
-        {
-            IWebDriver driver = Browser.webDriver;
+        //[OneTimeTearDown]
+        //public void OneTimeTearDown()
+        //{
+        //    IWebDriver driver = Browser.webDriver;
 
-            if (driver!=null)
-            {
-                driver.Quit();
-            }
-        }
+        //    if (driver!=null)
+        //    {
+        //        driver.Quit();
+        //    }
+        //}
     }
 }

@@ -24,17 +24,21 @@ namespace Pages.Invoice
 
         public void NavigateToWelcomePage()
         {
+            System.Threading.Thread.Sleep(4000);
             navigate_btn_click.Click();
+            System.Threading.Thread.Sleep(2000);
         }
 
         public void GotoPayable()
         {
             payables_link_click.Click();
+            System.Threading.Thread.Sleep(2000);
         }
 
         public void GotoInvoiceWorkbench()
         {
             invoice_btn_click.Click();
+            System.Threading.Thread.Sleep(2000);
         }
 
     }

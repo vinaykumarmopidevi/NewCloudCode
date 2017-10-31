@@ -9,7 +9,7 @@ using OpenQA.Selenium.Support.PageObjects;
 
 namespace Modules.Invoice
 {
-    class Invoice_Pages
+   public class Invoice_Pages
     {
         public static InvoiceWelcomePage WelcomePage
         {
@@ -39,6 +39,16 @@ namespace Modules.Invoice
                 var InvoicePage = new InvoiceWorkbenchPage();
                 PageFactory.InitElements(Browser.Driver, InvoicePage);
                 return InvoicePage;
+            }
+        }
+
+        public static CreateInvoicePage createInvoicePage
+        {
+            get
+            {
+                var createInvoicePage = new CreateInvoicePage();
+                PageFactory.InitElements(Browser.Driver, createInvoicePage);
+                return createInvoicePage;
             }
         }
     }

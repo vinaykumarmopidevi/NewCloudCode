@@ -1,10 +1,12 @@
 ﻿using NUnit.Framework;
 using System;
 using System.Collections.Generic;
+using FluentAssertions;
 using Helpers.TestHelpers.Configuration;
 using Helpers.TestHelpers.TestBaseUtility;
 using Helpers.TestHelpers.BaseClasses;
 using Modules.Invoice;
+using Pages.Invoice;
 
 
 namespace SeleniumTests.Invoice
@@ -62,11 +64,20 @@ namespace SeleniumTests.Invoice
 
             invoice.InvoicWorknenchNav();
 
-            //Assert
-            Log.Info("Verification Employee Creation");
-            //Assert.IsTrue(invoice.verificationEmployeeCreation(LastName), "Employeee created successful, pleas check!!");
-          
+            invoice.CreateInvoicePage("invoiceNumber"+ LastName);
 
+            invoice.CreateInvoiceLineSectionAmount();
+
+            invoice.CreateDistribution();
+
+            invoice.InvoiceValidate();
+
+            //Assert
+            Log.Info("Verification Invoice Status");
+            //Assert.IsTrue(invoice.verificationEmployeeCreation(LastName), "Employeee created successful, pleas check!!");
+
+            Invoice_Pages.createInvoicePage.ValidationStatus().ShouldBeEquivalentTo("Validated");
+            //CoreHR_Pages.SearchPerson.getEmployeeName().Should().StartWith("Validated");
             /*
              * logout from application
              */

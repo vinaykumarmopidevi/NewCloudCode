@@ -46,7 +46,7 @@ namespace Modules.AccountPayables
             AccountPayablesPages.CreateSupplierPage.SupplierName(SupplierName);
             AccountPayablesPages.CreateSupplierPage.BusinessRelationshipSelect(BusinessRelations);
             AccountPayablesPages.CreateSupplierPage.TaxOrganizationType(taxOrgType);
-          //  AccountPayablesPages.CreateSupplierPage.TaxCountry();
+            //AccountPayablesPages.CreateSupplierPage.TaxCountry();
             AccountPayablesPages.CreateSupplierPage.CreateButtonClick();
             AccountPayablesPages.EditSupplierPage.supplierTypeDropDown(supplier);
         }
@@ -54,7 +54,7 @@ namespace Modules.AccountPayables
         public void TransactionTax()
         {
             AccountPayablesPages.EditSupplierPage.TransactionTax();
-            AccountPayablesPages.EditSupplierPage.ContolsAndDefaults();
+           // AccountPayablesPages.EditSupplierPage.ContolsAndDefaults();
             AccountPayablesPages.EditSupplierPage.AllowTaxApplicability();
             AccountPayablesPages.EditSupplierPage.Save();
         }
@@ -74,10 +74,10 @@ namespace Modules.AccountPayables
 
         public void SiteCreation(string Procurement)
         {
-            // AccountPayablesPages.EditSupplierPage.ClickSiteTab();
-            AccountPayablesPages.EditSupplierPage.ClickSitesActionAdd();
+             AccountPayablesPages.EditSupplierPage.ClickSiteTab();
+            //AccountPayablesPages.EditSupplierPage.ClickSitesActionAdd();
            //AccountPayablesPages.EditSupplierPage.ClickSitesScrollAdd();
-           // AccountPayablesPages.EditSupplierPage.CreateSiteImageClick();
+            AccountPayablesPages.EditSupplierPage.CreateSiteImageClick();
             AccountPayablesPages.EditSupplierPage.ProcurementBUDropDown(Procurement);
             //AccountPayablesPages.EditSupplierPage.SitePurposePurchasingCheckBox();
            // AccountPayablesPages.EditSupplierPage.SitePurposePayCheckBox();

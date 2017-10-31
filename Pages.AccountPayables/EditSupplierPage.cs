@@ -86,11 +86,13 @@ namespace Pages.AccountPayables
         private IWebElement addresspurposeRFQ;
 
         //Site tab
-        [FindsBy(How = How.Id, Using = "//div[contains(.,'Sites')]")]
+        //[FindsBy(How = How.Id, Using = "//div[contains(.,'Sites')]")]
+        [FindsBy(How = How.Id, Using = "_FOpt1:_FOr1:0:_FOSritemNode_procurement_suppliers:0:MAt3:2:AP1:SitesTabId::disAcr")]
         private IWebElement clickSiteTab;
 
         //Create site Image
-        [FindsBy(How = How.Id, Using = "//img[@id='_FOpt1:_FOr1:0:_FOSritemNode_procurement_suppliers:0:MAt3:2:AP1:r4:0:AT3:_ATp:create::icon']")]
+        //[FindsBy(How = How.XPath, Using = "//img[@id='_FOpt1:_FOr1:0:_FOSritemNode_procurement_suppliers:0:MAt3:2:AP1:r4:0:AT3:_ATp:create::icon']")]
+        [FindsBy(How = How.Id, Using = "_FOpt1:_FOr1:0:_FOSritemNode_procurement_suppliers:0:MAt3:2:AP1:r4:0:AT3:_ATp:create::icon")]
         private IWebElement createSiteImageClick;
 
         //Procurement BU
@@ -211,16 +213,18 @@ namespace Pages.AccountPayables
             System.Threading.Thread.Sleep(1000);
             SelectElement SupplierTypeDropDown = new SelectElement(supplierType);
             //BusinessRelationshipDropDown.SelectByValue("SUPPLIER");
-            SupplierTypeDropDown.SelectByText(supplier);
+            SupplierTypeDropDown.SelectByText("Supplier");
+            System.Threading.Thread.Sleep(6000);
         }
         public void TransactionTax()
         {
-            System.Threading.Thread.Sleep(3000);
+            System.Threading.Thread.Sleep(20000);
+            //((IJavaScriptExecutor)Browser.Driver).ExecuteScript("window.scrollTo(0, document.body.scrollHeight - 150)");
             transactionTax.Click();
         }
         public void ContolsAndDefaults()
         {
-            System.Threading.Thread.Sleep(3000);
+            System.Threading.Thread.Sleep(20000);
 
             IJavaScriptExecutor js = (IJavaScriptExecutor)Browser.webDriver;
             js.ExecuteScript("window.scrollTo(0, document.body.scrollHeight);");
@@ -229,21 +233,24 @@ namespace Pages.AccountPayables
         public void AllowTaxApplicability()
         {
           
-            System.Threading.Thread.Sleep(3000);
+            System.Threading.Thread.Sleep(20000);
+            ((IJavaScriptExecutor)Browser.Driver).ExecuteScript("arguments[0].scrollIntoView(true);", allowTaxApplicability);
+            System.Threading.Thread.Sleep(1000);
             allowTaxApplicability.Click();
         }
         public void Save()
         {
          
-            System.Threading.Thread.Sleep(8000);
+            System.Threading.Thread.Sleep(20000);
             //IWebElement element = Browser.Driver.FindElement(By.XPath("//*[@id=\"_FOpt1:_FOr1:0:_FOSritemNode_workforce_management_new_person:0:MAnt2:1:pt1:pt_r1:2:pt1:sP2:tt1:next\"]/a"));
             ((IJavaScriptExecutor)Browser.Driver).ExecuteScript("arguments[0].scrollIntoView(true);", save);
-
+            System.Threading.Thread.Sleep(1000);
             save.Click();
+            System.Threading.Thread.Sleep(20000);
         }
         public void AddressesTabClick()
         {
-            System.Threading.Thread.Sleep(3000);
+            System.Threading.Thread.Sleep(10000);
             addressesTabClick.Click();
         }
         public void CreateAddressImageClick()
@@ -317,9 +324,11 @@ namespace Pages.AccountPayables
 
         public void ClickSiteTab()
         {
-            System.Threading.Thread.Sleep(5000);
-            IJavaScriptExecutor js = (IJavaScriptExecutor)Browser.webDriver;
-            js.ExecuteScript("window.scrollTo(0, document.body.scrollHeight);");
+            System.Threading.Thread.Sleep(25000);
+            //IJavaScriptExecutor js = (IJavaScriptExecutor)Browser.webDriver;
+            //js.ExecuteScript("window.scrollTo(0, document.body.scrollHeight);");
+            ((IJavaScriptExecutor)Browser.Driver).ExecuteScript("arguments[0].scrollIntoView(true);", clickSiteTab);
+            System.Threading.Thread.Sleep(1000);
             clickSiteTab.Click();
         }
 
@@ -343,17 +352,17 @@ namespace Pages.AccountPayables
         }
         public void CreateSiteImageClick()
         {
-            System.Threading.Thread.Sleep(8000);
-
-            Actions action = new Actions(Browser.webDriver);
-            action.MoveToElement(createSiteImageClick).Click().Build().Perform();
-
+            System.Threading.Thread.Sleep(25000);
+            ((IJavaScriptExecutor)Browser.Driver).ExecuteScript("arguments[0].scrollIntoView(true);", createSiteImageClick);
+            //Actions action = new Actions(Browser.webDriver);
+            //action.MoveToElement(createSiteImageClick).Click().Build().Perform();
+            System.Threading.Thread.Sleep(3000);
             createSiteImageClick.Click();
         }
 
         public void ProcurementBUDropDown(string Procurement)
         {
-            System.Threading.Thread.Sleep(8000);
+            System.Threading.Thread.Sleep(25000);
             if (!procurementBU.Displayed)
             {
                
@@ -364,7 +373,7 @@ namespace Pages.AccountPayables
            
                 var ProcurementBUDropDown = new SelectElement(procurementBU);
            
-            System.Threading.Thread.Sleep(8000);
+            System.Threading.Thread.Sleep(20000);
             //BusinessRelationshipDropDown.SelectByValue("1");
             ProcurementBUDropDown.SelectByText(Procurement);
         }

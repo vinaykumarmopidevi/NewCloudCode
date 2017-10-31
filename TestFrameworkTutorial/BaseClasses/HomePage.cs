@@ -48,6 +48,7 @@ namespace Helpers.TestHelpers.BaseClasses
         private IWebElement IndividualLink;
 
         [FindsBy(How = How.Id, Using = "_FOpt1:_UIScmil1u::icon")]
+        //_FOpt1:_UIScmil1u::icon
 
         private IWebElement signoutimageclick;
 

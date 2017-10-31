@@ -383,3 +383,1252 @@
 2017-10-30 21:48:06,667 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
 2017-10-30 21:48:06,680 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
 2017-10-30 21:48:06,681 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-30 21:50:05,600 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-30 21:50:05,612 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-30 21:50:05,612 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-30 21:50:06,674 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-30 21:50:06,683 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-30 21:50:06,683 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-30 21:50:07,501 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-30 21:50:07,510 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-30 21:50:07,510 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-30 21:51:50,537 [13] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-30 21:51:50,545 [13] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-30 21:51:50,545 [13] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-30 21:51:51,493 [13] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-30 21:51:51,502 [13] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-30 21:51:51,502 [13] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-30 21:51:52,268 [13] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-30 21:51:52,276 [13] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-30 21:51:52,276 [13] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-30 21:56:25,053 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-30 21:56:25,064 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-30 21:56:25,064 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-30 21:56:26,058 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-30 21:56:26,067 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-30 21:56:26,068 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-30 21:56:26,880 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-30 21:56:26,890 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-30 21:56:26,891 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 12:09:44,242 [9] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:09:44,253 [9] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:09:44,253 [9] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 12:09:46,030 [9] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:09:46,045 [9] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:09:46,046 [9] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 12:09:47,107 [9] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:09:47,120 [9] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:09:47,121 [9] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 12:17:22,682 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:17:22,694 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:17:22,695 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 12:17:23,852 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:17:23,861 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:17:23,863 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 12:17:24,725 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:17:24,737 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:17:24,738 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 12:17:25,655 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:17:25,664 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:17:25,665 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 12:17:25,843 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:17:25,843 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:17:25,844 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:17:25,845 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:17:25,846 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:17:25,847 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:17:25,848 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:17:25,848 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:17:25,849 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:21:41,140 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:21:41,148 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:21:41,149 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 12:21:41,327 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:21:41,328 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:21:41,328 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:21:41,329 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:21:41,330 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:21:41,331 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:21:41,331 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:21:41,331 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:21:41,332 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:21:48,900 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:21:48,901 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:21:48,935 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:21:48,936 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:21:48,938 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:21:48,942 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:21:48,944 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:21:57,563 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:21:57,564 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:21:57,566 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:21:57,567 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:21:57,568 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:21:57,570 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:22:09,815 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:22:09,817 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:22:09,822 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:22:09,825 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:22:09,826 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:22:09,828 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:22:12,029 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:22:12,030 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:22:12,031 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:22:33,854 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 12:26:55,627 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:26:55,638 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:26:55,639 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 12:26:55,840 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:26:55,840 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:26:55,841 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:26:55,842 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:26:55,842 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:26:55,843 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:26:55,844 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:26:55,845 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:26:55,845 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:26:55,859 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:26:55,859 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:26:55,860 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:26:55,863 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:26:55,864 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:27:00,933 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:27:00,933 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:27:00,934 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:27:00,935 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:27:00,935 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:27:00,936 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:27:12,575 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:27:12,576 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:27:12,577 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:27:12,577 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:27:12,578 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:27:12,579 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:27:14,728 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:27:14,729 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:27:14,729 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:27:36,083 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 12:32:25,085 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:32:25,092 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:32:25,093 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 12:32:25,266 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:32:25,267 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:32:25,267 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:32:25,268 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:32:25,268 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:32:25,269 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:32:25,269 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:32:25,270 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:32:25,270 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:32:31,715 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:32:31,716 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:32:31,747 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:32:31,752 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:32:31,753 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:32:31,760 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:32:31,761 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:16,507 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:37:16,514 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:37:16,515 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 12:37:16,691 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:37:16,692 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:16,693 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:37:16,694 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:37:16,694 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:16,695 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:37:16,695 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:37:16,696 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:16,696 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:37:16,708 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:37:16,709 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:16,710 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:37:16,712 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:37:16,713 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:23,367 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:37:23,367 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:23,367 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:37:23,368 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:37:23,368 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:23,369 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:37:37,158 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:37:37,160 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:37,164 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:37:37,168 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:37:37,169 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:37,170 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:37:39,267 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:37:39,268 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:37:39,269 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:38:00,159 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 12:41:10,126 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:41:10,134 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:41:10,134 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 12:41:10,296 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:41:10,297 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:41:10,298 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:41:10,298 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:41:10,299 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:41:10,299 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:41:10,300 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:41:10,300 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:41:10,301 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:41:14,770 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:41:14,771 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:41:14,773 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:41:14,778 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:41:14,779 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:11,572 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:57:11,582 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:57:11,582 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 12:57:12,856 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 12:57:12,865 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 12:57:12,866 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 12:57:13,045 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:13,046 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:13,047 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:57:13,047 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:13,047 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:13,048 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:57:13,048 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:13,048 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:13,049 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:57:25,271 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:25,272 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:25,316 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:25,317 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:25,324 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:57:25,328 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:25,329 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:29,663 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:29,664 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:29,666 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:57:29,667 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:29,668 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:29,669 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:57:42,142 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:42,144 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:42,148 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:57:42,153 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:42,155 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:42,159 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:57:44,290 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 12:57:44,291 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 12:57:44,292 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 12:58:05,344 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 13:03:39,622 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:03:39,632 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:03:39,633 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:03:40,848 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:03:40,858 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:03:40,859 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:03:41,040 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:03:41,040 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:03:41,042 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:03:41,043 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:03:41,044 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:03:41,045 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:03:41,046 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:03:41,046 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:03:41,047 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:03:47,237 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:03:47,238 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:03:47,276 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:03:47,277 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:03:47,277 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:03:47,280 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:03:47,280 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:03:51,661 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:03:51,661 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:03:51,662 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:03:51,662 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:03:51,663 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:03:51,663 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:04:03,894 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:04:03,896 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:04:03,898 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:04:03,902 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:04:03,903 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:04:03,906 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:04:06,032 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:04:06,032 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:04:06,033 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:04:27,261 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 13:09:06,465 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:09:06,477 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:09:06,477 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:09:07,758 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:09:07,766 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:09:07,766 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:09:07,946 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:07,946 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:07,947 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:09:07,947 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:07,948 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:07,949 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:09:07,949 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:07,949 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:07,950 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:09:13,836 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:13,836 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:13,868 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:13,872 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:13,874 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:09:13,877 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:13,878 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:18,368 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:18,368 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:18,369 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:09:18,370 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:18,370 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:18,371 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:09:30,506 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:30,509 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:30,513 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:09:30,518 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:30,520 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:30,523 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:09:32,649 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:09:32,650 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:09:32,651 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:09:54,563 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 13:17:23,580 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:17:23,592 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:17:23,593 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:17:24,834 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:17:24,843 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:17:24,844 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:17:25,021 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:17:25,022 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:17:25,023 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:17:25,023 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:17:25,023 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:17:25,024 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:17:25,024 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:17:25,025 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:17:25,026 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:17:25,040 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:17:25,041 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:17:25,041 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:17:25,044 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:17:25,044 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:17:29,864 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:17:29,864 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:17:29,865 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:17:29,866 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:17:29,866 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:17:29,867 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:17:43,369 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:17:43,370 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:17:43,371 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:17:43,373 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:17:43,374 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:17:43,376 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:17:45,500 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:17:45,500 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:17:45,501 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:18:07,266 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 13:23:46,230 [19] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - The process cannot access the file 'E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\TestDataAccess\Data.xlsx' because it is being used by another process.
+2017-10-31 13:24:52,999 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - The process cannot access the file 'E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\TestDataAccess\Data.xlsx' because it is being used by another process.
+2017-10-31 13:24:53,200 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:24:53,200 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:24:53,201 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:24:53,202 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:24:53,202 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:24:53,203 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:24:53,203 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:24:53,204 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:24:53,204 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:24:53,658 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:24:53,672 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:24:53,672 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 13:24:53,792 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.CoreHR\
+2017-10-31 13:24:53,793 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:24:53,794 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:24:53,794 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.CoreHR\
+2017-10-31 13:24:53,795 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:24:53,795 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:24:53,795 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.CoreHR\
+2017-10-31 13:24:53,796 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:24:53,796 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:24:53,809 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 13:24:53,813 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.CoreHR\
+2017-10-31 13:24:53,813 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:24:53,814 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:24:53,817 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.CoreHR\
+2017-10-31 13:24:53,818 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:25:01,681 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - The process cannot access the file 'E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\TestDataAccess\Data.xlsx' because it is being used by another process.
+2017-10-31 13:25:01,879 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:25:01,879 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:25:01,880 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:25:01,881 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:25:01,881 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:25:01,882 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:25:01,882 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:25:01,882 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:25:01,883 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:25:17,188 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - The process cannot access the file 'E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\TestDataAccess\Data.xlsx' because it is being used by another process.
+2017-10-31 13:25:17,362 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:25:17,363 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:25:17,364 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:25:17,364 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:25:17,365 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:25:17,365 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:25:17,366 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:25:17,366 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:25:17,367 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:25:24,616 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:25:24,616 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:09,021 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:26:09,029 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:26:09,030 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:26:09,217 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:26:09,218 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:09,219 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:26:09,219 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:26:09,219 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:09,220 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:26:09,221 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:26:09,221 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:09,222 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:26:09,232 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:26:09,232 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:09,233 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:26:09,237 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:26:09,238 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:13,863 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:26:13,863 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:13,864 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:26:13,865 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:26:13,865 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:13,866 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:26:27,172 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:26:27,174 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:27,178 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:26:27,183 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:26:27,185 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:27,189 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:26:29,324 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:26:29,325 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:26:29,326 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:26:51,577 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 13:36:13,573 [19] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:36:13,584 [19] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:36:13,585 [19] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:36:49,821 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:36:49,821 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:36:49,821 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:36:49,967 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:36:49,967 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:36:49,967 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:36:49,967 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:36:49,967 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:36:49,967 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:36:49,983 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:36:49,983 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:36:49,983 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:36:56,424 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:36:56,424 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:36:56,491 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:36:56,492 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:36:56,493 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:36:56,497 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:36:56,497 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:37:01,373 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:37:01,373 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:37:01,374 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:37:01,374 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:37:01,375 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:37:01,375 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:37:14,421 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:37:14,423 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:37:14,426 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:37:14,431 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:37:14,433 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:37:14,437 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:37:16,563 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:37:16,563 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:37:16,564 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:37:38,209 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 13:48:18,030 [17] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:48:18,041 [17] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:48:18,041 [17] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:48:19,472 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:48:19,481 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:48:19,482 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:48:19,634 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:48:19,634 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:48:19,634 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:48:19,651 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:48:19,651 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:48:19,652 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:48:19,652 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:48:19,653 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:48:19,653 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:48:19,657 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:48:19,657 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:48:19,657 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:48:19,657 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:48:19,657 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:48:24,024 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:48:24,024 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:48:24,025 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:48:24,025 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:48:24,026 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:48:24,026 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:48:37,248 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:48:37,251 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:48:37,254 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:48:37,259 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:48:37,260 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:48:37,264 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:48:39,385 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:48:39,386 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:48:39,386 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:49:01,416 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 13:53:15,855 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:53:15,862 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:53:15,862 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:53:16,039 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:53:16,039 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:53:16,040 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:53:16,040 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:53:16,041 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:53:16,042 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:53:16,042 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:53:16,042 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:53:16,043 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:53:16,054 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:53:16,055 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:53:16,056 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:53:16,058 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:53:16,059 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:53:20,827 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:53:20,827 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:53:20,828 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:53:20,829 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:53:20,829 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:53:20,830 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:53:34,408 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:53:34,410 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:53:34,414 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:53:34,419 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:53:34,420 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:53:34,422 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:53:36,554 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:53:36,554 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:53:36,555 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:53:58,055 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 13:57:21,927 [20] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:57:21,938 [20] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:57:21,939 [20] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:57:23,464 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 13:57:23,471 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 13:57:23,472 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 13:57:23,637 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:23,638 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:23,638 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:57:23,639 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:23,639 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:23,640 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:57:23,640 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:23,641 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:23,641 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:57:31,811 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:31,812 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:31,854 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:31,858 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:31,859 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:57:31,863 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:31,863 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:38,091 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:38,091 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:38,092 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:57:38,093 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:38,093 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:38,094 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:57:50,276 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:50,279 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:50,283 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:57:50,288 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:50,290 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:50,293 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:57:52,428 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 13:57:52,428 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 13:57:52,429 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 13:58:13,632 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 14:02:10,730 [20] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 14:02:10,742 [20] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 14:02:10,742 [20] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 14:02:12,060 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 14:02:12,070 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 14:02:12,070 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 14:02:12,269 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:12,269 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:12,270 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:02:12,271 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:12,271 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:12,272 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:02:12,272 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:12,272 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:12,273 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:02:20,438 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:20,438 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:20,489 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:20,492 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:20,493 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:02:20,497 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:20,498 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:25,461 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:25,462 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:25,464 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:02:25,465 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:25,466 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:25,467 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:02:38,330 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:38,332 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:38,334 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:02:38,338 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:38,339 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:38,342 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:02:40,479 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:02:40,479 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:02:40,480 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:03:03,093 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 14:42:30,497 [23] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 14:42:30,508 [23] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 14:42:30,508 [23] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 14:42:31,796 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 14:42:31,804 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 14:42:31,805 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 14:42:31,994 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:42:31,994 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:42:31,995 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:42:31,996 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:42:31,996 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:42:31,997 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:42:31,997 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:42:31,997 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:42:31,999 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:42:50,400 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:42:50,401 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:42:50,454 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:42:50,459 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:42:50,460 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:42:50,464 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:42:50,465 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:42:54,979 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:42:54,980 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:42:54,981 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:42:54,983 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:42:54,984 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:42:54,985 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:43:07,363 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:43:07,365 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:43:07,369 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:43:07,374 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:43:07,376 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:43:07,379 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:43:09,521 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:43:09,521 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:43:09,522 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:43:31,043 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 14:46:41,382 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 14:46:41,390 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 14:46:41,391 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 14:46:41,575 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:46:41,575 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:46:41,576 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:46:41,577 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:46:41,577 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:46:41,578 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:46:41,578 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:46:41,579 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:46:41,580 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:46:50,975 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:46:50,975 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:46:51,024 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:46:51,027 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:46:51,030 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:46:51,037 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:46:51,038 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:46:55,810 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:46:55,811 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:46:55,812 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:46:55,813 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:46:55,813 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:46:55,814 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:47:18,652 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:47:18,654 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:47:18,656 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:47:18,658 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:47:18,659 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:47:18,661 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:47:20,793 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:47:20,794 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:47:20,794 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:47:43,342 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 14:56:33,102 [19] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 14:56:33,113 [19] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 14:56:33,114 [19] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 14:56:34,421 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 14:56:34,429 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 14:56:34,430 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 14:56:34,604 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:56:34,604 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:56:34,606 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:56:34,606 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:56:34,606 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:56:34,607 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:56:34,608 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:56:34,608 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:56:34,609 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:56:39,714 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:56:39,715 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:56:39,757 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:56:39,758 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:56:39,759 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:56:39,762 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:56:39,763 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:56:44,627 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:56:44,628 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:56:44,629 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:56:44,629 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:56:44,629 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:56:44,630 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:57:00,014 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:57:00,016 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:57:00,020 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:57:00,024 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:57:00,026 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:57:00,028 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:57:02,176 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 14:57:02,177 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 14:57:02,177 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 14:57:59,901 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 15:11:52,585 [16] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:11:52,595 [16] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:11:52,595 [16] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 15:11:53,937 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:11:53,947 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:11:53,947 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 15:11:54,133 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:11:54,133 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:11:54,134 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:11:54,135 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:11:54,135 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:11:54,136 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:11:54,136 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:11:54,136 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:11:54,137 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:11:54,151 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:11:54,152 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:11:54,152 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:11:54,155 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:11:54,156 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:11:58,560 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:11:58,561 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:11:58,561 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:11:58,562 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:11:58,563 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:11:58,563 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:12:36,725 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:12:36,726 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:12:36,727 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:12:36,728 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:12:36,729 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:12:36,730 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:12:38,858 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:12:38,859 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:12:38,859 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:13:05,264 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 15:22:50,336 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:22:50,345 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:22:50,346 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 15:22:50,517 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:22:50,518 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:22:50,519 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:22:50,519 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:22:50,520 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:22:50,520 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:22:50,521 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:22:50,521 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:22:50,522 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:23:08,602 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:23:08,602 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:23:08,657 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:23:08,657 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:23:08,659 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:23:08,665 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:23:08,666 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:23:12,960 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:23:12,961 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:23:12,962 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:23:12,962 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:23:12,963 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:23:12,963 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:23:26,574 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:23:26,576 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:23:26,580 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:23:26,585 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:23:26,587 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:23:26,591 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:23:28,719 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:23:28,720 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:23:28,720 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:23:50,533 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 15:32:03,843 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:32:03,854 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:32:03,855 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 15:32:05,180 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:32:05,187 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:32:05,188 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 15:32:05,372 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:05,373 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:05,374 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:32:05,375 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:05,376 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:05,377 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:32:05,378 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:05,378 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:05,379 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:32:12,557 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:12,557 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:12,604 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:12,606 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:12,609 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:32:12,617 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:12,618 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:17,221 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:17,222 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:17,223 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:32:17,225 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:17,225 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:17,226 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:32:29,856 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:29,859 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:29,863 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:32:29,869 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:29,871 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:29,874 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:32:32,004 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.AccountPayables\
+2017-10-31 15:32:32,005 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:32:32,006 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:32:54,292 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - logged in successfully
+2017-10-31 15:42:11,467 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:42:11,480 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:42:11,480 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 15:42:12,695 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:42:12,705 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:42:12,706 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 15:42:12,891 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 15:42:12,895 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:42:12,896 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:42:12,896 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:42:12,901 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:42:12,902 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:42:17,129 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 15:42:17,137 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:42:17,137 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:42:17,138 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:42:17,139 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:42:17,139 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:42:17,140 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:42:29,555 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:42:29,558 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:42:29,561 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:48:05,017 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:48:05,028 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:48:05,028 [10] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 15:48:06,269 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:48:06,277 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:48:06,277 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 15:48:06,447 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 15:48:06,450 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:48:06,451 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:48:06,451 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:48:06,455 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:48:06,456 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:48:11,149 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 15:48:11,160 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:48:11,161 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:48:11,161 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:48:11,162 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:48:11,162 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:48:11,163 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:48:22,723 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:48:22,725 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:48:22,727 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:50:16,931 [7] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:50:16,942 [7] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:50:16,943 [7] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 15:50:18,129 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:50:18,137 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:50:18,137 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 15:50:18,341 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 15:50:18,345 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:50:18,345 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:50:18,346 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:50:18,350 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:50:18,351 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:50:23,448 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 15:50:23,457 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:50:23,458 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:50:23,458 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:50:23,459 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:50:23,459 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:50:23,460 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:50:36,113 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:50:36,115 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:50:36,117 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:53:20,099 [19] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:53:20,108 [19] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:53:20,110 [19] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 15:53:21,323 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 15:53:21,333 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 15:53:21,333 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 15:53:21,511 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 15:53:21,516 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:53:21,518 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:53:21,519 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:53:21,523 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:53:21,523 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:53:26,331 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 15:53:26,342 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:53:26,343 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:53:26,343 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:53:26,344 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:53:26,344 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:53:26,345 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 15:53:38,216 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 15:53:38,217 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 15:53:38,219 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:28:53,197 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 17:28:53,211 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 17:28:53,211 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 17:28:54,480 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 17:28:54,487 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 17:28:54,488 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 17:28:54,672 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 17:28:54,677 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:28:54,677 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:28:54,678 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:28:54,683 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:28:54,684 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:28:59,456 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 17:28:59,464 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:28:59,464 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:28:59,465 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:28:59,466 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:28:59,466 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:28:59,467 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:29:10,881 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:29:10,883 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:29:10,885 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:39:31,593 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 17:39:31,603 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 17:39:31,604 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 17:39:32,956 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 17:39:32,966 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 17:39:32,966 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 17:39:33,151 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 17:39:33,153 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:39:33,153 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:39:33,154 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:39:33,159 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:39:33,159 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:39:37,876 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 17:39:37,886 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:39:37,886 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:39:37,887 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:39:37,887 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:39:37,887 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:39:37,888 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:39:50,224 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:39:50,227 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:39:50,232 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:48:35,747 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 17:48:35,758 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 17:48:35,759 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 17:48:37,161 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 17:48:37,169 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 17:48:37,170 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 17:48:37,351 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 17:48:37,355 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:48:37,356 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:48:37,357 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:48:37,361 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:48:37,362 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:48:42,229 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 17:48:42,239 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:48:42,239 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:48:42,240 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:48:42,241 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:48:42,241 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:48:42,242 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:48:54,328 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:48:54,330 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:48:54,334 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:54:27,750 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 17:54:27,760 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 17:54:27,760 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 17:54:28,989 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 17:54:28,998 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 17:54:28,999 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 17:54:29,171 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 17:54:29,175 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:54:29,175 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:54:29,176 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:54:29,180 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:54:29,180 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:54:33,665 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 17:54:33,676 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:54:33,677 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:54:33,678 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:54:33,678 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:54:33,679 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:54:33,679 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 17:54:45,181 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 17:54:45,184 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 17:54:45,188 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:00:48,456 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 18:00:48,467 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 18:00:48,468 [21] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 18:00:49,760 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 18:00:49,768 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 18:00:49,769 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 18:00:49,948 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 18:00:49,951 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:00:49,952 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:00:49,952 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:00:49,957 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:00:49,958 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:00:54,554 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 18:00:54,564 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:00:54,564 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:00:54,565 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:00:54,566 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:00:54,566 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:00:54,567 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:01:05,887 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:01:05,889 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:01:05,891 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:08:59,115 [5] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 18:08:59,127 [5] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 18:08:59,127 [5] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 18:09:00,457 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 18:09:00,465 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 18:09:00,465 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 18:09:00,640 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 18:09:00,644 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:09:00,645 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:09:00,646 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:09:00,649 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:09:00,650 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:09:05,481 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 18:09:05,491 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:09:05,491 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:09:05,492 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:09:05,493 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:09:05,493 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:09:05,494 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:09:17,568 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:09:17,570 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:09:17,574 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:13:23,718 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 18:13:23,728 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 18:13:23,728 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 18:13:25,024 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 18:13:25,032 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 18:13:25,033 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 18:13:25,215 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 18:13:25,218 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:13:25,218 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:13:25,219 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:13:25,223 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:13:25,223 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:13:30,189 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 18:13:30,198 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:13:30,198 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:13:30,199 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:13:30,199 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:13:30,200 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:13:30,200 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:13:41,670 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:13:41,670 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:13:41,672 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:56:18,792 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 18:56:18,802 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 18:56:18,803 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 18:56:20,124 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 18:56:20,135 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 18:56:20,135 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 18:56:20,307 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 18:56:20,311 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:56:20,312 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:56:20,313 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:56:20,316 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:56:20,317 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:56:25,140 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 18:56:25,152 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:56:25,153 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:56:25,153 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:56:25,154 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:56:25,154 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:56:25,155 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 18:56:38,185 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 18:56:38,186 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 18:56:38,188 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:07:06,416 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:07:06,430 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:07:06,431 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:07:07,795 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:07:07,804 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:07:07,805 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:07:08,016 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 19:07:08,020 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:07:08,020 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:07:08,021 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:07:08,026 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:07:08,027 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:07:12,604 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 19:07:12,613 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:07:12,614 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:07:12,614 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:07:12,615 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:07:12,615 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:07:12,616 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:07:25,172 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:07:25,174 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:07:25,179 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:16:55,896 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:16:55,915 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:16:55,916 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:16:57,282 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:16:57,289 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:16:57,289 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:16:57,469 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 19:16:57,472 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:16:57,472 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:16:57,473 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:16:57,477 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:16:57,477 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:17:02,182 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 19:17:02,190 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:17:02,190 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:17:02,191 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:17:02,192 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:17:02,192 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:17:02,193 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:17:15,058 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:17:15,060 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:17:15,064 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:22:21,313 [18] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:22:21,324 [18] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:22:21,325 [18] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:22:22,649 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:22:22,656 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:22:22,657 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:22:22,825 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 19:22:22,829 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:22:22,830 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:22:22,831 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:22:22,835 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:22:22,836 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:22:27,447 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 19:22:27,455 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:22:27,455 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:22:27,456 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:22:27,457 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:22:27,457 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:22:27,458 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:22:40,258 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:22:40,260 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:22:40,262 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:40:45,087 [18] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:40:45,099 [18] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:40:45,099 [18] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:40:46,415 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:40:46,422 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:40:46,422 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:40:46,611 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 19:40:46,615 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:40:46,616 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:40:46,618 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:40:46,621 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:40:46,622 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:40:51,654 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 19:40:51,665 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:40:51,665 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:40:51,666 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:40:51,667 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:40:51,667 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:40:51,668 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:41:04,501 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:41:04,501 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:41:04,502 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:47:13,992 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:47:14,005 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:47:14,007 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:47:15,256 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:47:15,263 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:47:15,264 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:47:15,437 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 19:47:15,441 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:47:15,441 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:47:15,442 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:47:15,446 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:47:15,447 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:47:19,942 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 19:47:19,950 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:47:19,950 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:47:19,951 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:47:19,952 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:47:19,952 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:47:19,953 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:47:37,329 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:47:37,330 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:47:37,331 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:56:11,365 [7] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:56:11,378 [7] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:56:11,378 [7] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:56:12,801 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 19:56:12,810 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 19:56:12,811 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 19:56:12,994 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 19:56:12,998 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:56:12,999 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:56:13,000 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:56:13,005 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:56:13,005 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:56:17,522 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 19:56:17,530 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:56:17,531 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:56:17,531 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:56:17,532 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:56:17,532 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:56:17,533 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 19:56:30,399 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 19:56:30,400 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 19:56:30,402 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 20:02:37,122 [17] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:02:37,133 [17] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:02:37,134 [17] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 20:02:38,534 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:02:38,541 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:02:38,542 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 20:02:38,723 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Started scenario  execution
+2017-10-31 20:02:38,726 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 20:02:38,727 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 20:02:38,727 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 20:02:38,732 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 20:02:38,733 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 20:02:43,560 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - login to application
+2017-10-31 20:02:43,569 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 20:02:43,569 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 20:02:43,570 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 20:02:43,571 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 20:02:43,571 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 20:02:43,572 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 20:02:54,923 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
+2017-10-31 20:02:54,924 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
+2017-10-31 20:02:54,926 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}

@@ -23,10 +23,12 @@ namespace Pages.Invoice
         public void invoiceWorkBench_btn_click()
         {
             invoice_wb_img_btn_click.Click();
+            System.Threading.Thread.Sleep(20000);
         }
         public void invoiceWorkBench_link_click()
         {
             invoice_wb_link_btn_click.Click();
+            System.Threading.Thread.Sleep(20000);
         }
     }
 }
