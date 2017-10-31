@@ -1632,3 +1632,30 @@
 2017-10-31 20:02:54,923 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\SeleniumTests.Invoice\
 2017-10-31 20:02:54,924 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - E:\VisualStudio\31Oct17\OracleTestFrameworkTutorial\
 2017-10-31 20:02:54,926 [Worker#STA_NP] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Result: {0}
+2017-10-31 20:43:30,469 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:43:30,480 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:43:30,480 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 20:43:31,412 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:43:31,422 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:43:31,422 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 20:43:32,173 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:43:32,182 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:43:32,182 [12] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 20:46:53,522 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:46:53,532 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:46:53,532 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 20:46:54,562 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:46:54,573 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:46:54,574 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 20:46:55,289 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:46:55,298 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:46:55,298 [11] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 20:49:11,876 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:49:11,885 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:49:11,886 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :13
+2017-10-31 20:49:12,886 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:49:12,897 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:49:12,897 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
+2017-10-31 20:49:13,651 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Test starts from row : 1
+2017-10-31 20:49:13,661 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total rows :1
+2017-10-31 20:49:13,661 [14] INFO  Helpers.TestHelpers.TestBaseUtility.CommonBase - Total cols :6
